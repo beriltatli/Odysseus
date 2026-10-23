@@ -109,13 +109,14 @@ The audit checks that no part passes through another, that every rope and seam e
 ## Files
 
 ```
-trojan-horse/
+Odysseus/
 ├── trojan-horse.html          the figure (follows system theme)
 ├── trojan-horse-light.html    the figure (always light)
 ├── build.mjs                  geometry: horse, cart, gate, soldiers
 ├── live.js                    motion: pulling, gate, night, tour, readout
 ├── trojan.css                 materials for both themes
-└── media/                     the GIF, MP4 and stills used in this README
+├── media/                     the GIF, MP4 and stills used in this README
+└── shots/                     test captures and close-ups from development
 ```
 
 ## Credits

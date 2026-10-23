@@ -1,0 +1,1 @@
+[["wait",800],["key","ArrowLeft"],["key","ArrowRight"],["key","ArrowRight"],["key","ArrowRight"],["key","ArrowRight"],["key","ArrowRight"],["key","ArrowRight"],["key","ArrowRight"],["key","ArrowRight"],["key","ArrowRight"],["wait",5000],["slow",0.3],["key","End"],["sheet","shots/pass-sheet.png",300,16,null,1,[200,60,330,330],4]]

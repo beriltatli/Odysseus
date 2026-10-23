@@ -1,0 +1,1 @@
+[["wait",500],["eval","matchMedia('(prefers-reduced-motion: reduce)').matches"],["key","End"],["wait",4500],["key","n"],["wait",400],["eval","document.querySelector('[data-readout]').textContent"],["wait",1500],["eval","document.querySelector('[data-readout]').textContent+' | '+[...document.querySelectorAll('[data-soldier]')].map(e=>e.style.opacity).join(',')"]]

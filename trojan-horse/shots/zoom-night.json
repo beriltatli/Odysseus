@@ -1,0 +1,3 @@
+[["wait",800],["key","End"],["wait",1200],["key","n"],["wait",1200],
+ ["shot","shots/z-hatch-light.png",null,5,[405,280,110,110]],
+ ["shot","shots/z-soldiers-light.png",null,5,[370,320,110,90]]]

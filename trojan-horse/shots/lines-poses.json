@@ -1,0 +1,1 @@
+[["wait",800],["key","End"],["wait",1500],["lines","shots/lines-inside.png"],["key","n"],["wait",1500],["lines","shots/lines-night.png"],["shot","shots/night-still.png"]]

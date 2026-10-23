@@ -1,0 +1,49 @@
+/* Material token sets. Dark is the kit default; light overrides follow. */
+.th-wood{--anatomy-shade-0:#33312c;--anatomy-shade-1:#393732;--anatomy-shade-2:#3f3d38;--anatomy-shade-3:#46443e;--anatomy-top:#4e4c46;--anatomy-face:#52504a;--anatomy-lit-top:#5a5852;--anatomy-lit-shade:#46443e;--anatomy-hi:#d8d5cc;--anatomy-mid:#77746c;--anatomy-lo:#66635c;--anatomy-faint:#47453f;--anatomy-dot:#ebe7dd;--th-lap:#24231f}
+.th-rope{--anatomy-shade-0:#3b2e1c;--anatomy-shade-1:#433421;--anatomy-shade-2:#4c3b26;--anatomy-shade-3:#55432c;--anatomy-top:#5f4b32;--anatomy-hi:#e2c79c;--anatomy-mid:#a3845a;--anatomy-lo:#76603f;--anatomy-faint:#433522;--anatomy-dot:#f0dcb8}
+.th-stone{--anatomy-shade-0:#1f2022;--anatomy-shade-1:#242527;--anatomy-shade-2:#292a2c;--anatomy-shade-3:#2e2f32;--anatomy-top:#353639;--anatomy-hi:#d2d3d6;--anatomy-mid:#6b6c70;--anatomy-lo:#47484c;--anatomy-faint:#2d2e31;--th-slit:#0b0b0c}
+.th-sand{--anatomy-shade-0:#25221b;--anatomy-shade-1:#29251e;--anatomy-shade-2:#2d2920;--anatomy-shade-3:#312c23;--anatomy-top:#2b271f;--anatomy-hi:#d4c6a6;--anatomy-mid:#5d5440;--anatomy-lo:#433c2e;--anatomy-faint:#363024;--anatomy-dot:#d8c9a5}
+.th-door{--anatomy-shade-0:#24211c;--anatomy-shade-1:#29261f;--anatomy-shade-2:#2e2a23;--anatomy-shade-3:#332f27;--anatomy-top:#3a352c;--anatomy-hi:#d6cfc0;--anatomy-mid:#76705f;--anatomy-lo:#544e42;--anatomy-faint:#38342b;--anatomy-dot:#e8e1d0}
+.th-iron{--anatomy-shade-0:#141414;--anatomy-shade-1:#171717;--anatomy-shade-2:#1b1b1b;--anatomy-shade-3:#1f1f1f;--anatomy-top:#262626;--anatomy-hi:#bdbdbd;--anatomy-mid:#5a5a5a;--anatomy-lo:#3a3a3a;--anatomy-faint:#262626;--anatomy-dot:#d8d8d8}
+.th-soldier{--anatomy-shade-0:#2a2d33;--anatomy-shade-1:#30333a;--anatomy-shade-2:#363a42;--anatomy-shade-3:#3d414a;--anatomy-top:#454a54;--anatomy-face:#4a4f5a;--anatomy-lit-top:#5a606c;--anatomy-lit-shade:#434853;--anatomy-hi:#e6e9ef;--anatomy-mid:#8a909c;--anatomy-lo:#5c616c}
+.th-soldier-dark{--anatomy-shade-0:#1d1f24;--anatomy-shade-1:#212329;--anatomy-shade-2:#25282e;--anatomy-shade-3:#2a2d34;--anatomy-top:#30333a}
+.iso[data-theme="light"] .th-soldier-dark{--anatomy-shade-0:#5a6070;--anatomy-shade-1:#646a7a;--anatomy-shade-2:#6e7484;--anatomy-shade-3:#787e8e;--anatomy-top:#848a9a}
+.th-cavity{fill:#060605;stroke:var(--anatomy-lo);stroke-width:.6px;stroke-linejoin:round}
+.th-cavity-rib{fill:none;stroke:#2a2824;stroke-width:1.4px;stroke-linecap:round}
+.th-lap{fill:var(--th-lap);stroke:none;opacity:.55}
+.th-grain path{stroke-linecap:butt}
+.th-slit{fill:var(--th-slit);stroke:var(--anatomy-lo);stroke-width:.6px}
+
+.iso[data-theme="light"] .th-wood{--anatomy-shade-0:#b4b0a7;--anatomy-shade-1:#c1bdb4;--anatomy-shade-2:#ccc8c0;--anatomy-shade-3:#d7d4cc;--anatomy-top:#e2dfd8;--anatomy-face:#e7e4de;--anatomy-lit-top:#efede8;--anatomy-lit-shade:#d9d6cf;--anatomy-hi:#3a3833;--anatomy-mid:#7f7a70;--anatomy-lo:#958f84;--anatomy-faint:#bcb8ae;--anatomy-dot:#3f3c36;--th-lap:#8f897d}
+.iso[data-theme="light"] .th-rope{--anatomy-shade-0:#b18d5e;--anatomy-shade-1:#bf9b6b;--anatomy-shade-2:#cba879;--anatomy-shade-3:#d6b689;--anatomy-top:#e2c69e;--anatomy-hi:#4c3920;--anatomy-mid:#8b6a40;--anatomy-lo:#9a7a4e;--anatomy-faint:#cdb088;--anatomy-dot:#4c3920}
+.iso[data-theme="light"] .th-stone{--anatomy-shade-0:#c3c3be;--anatomy-shade-1:#cdcdc8;--anatomy-shade-2:#d7d7d2;--anatomy-shade-3:#e1e1dc;--anatomy-top:#eaeae5;--anatomy-hi:#323236;--anatomy-mid:#8a8a86;--anatomy-lo:#a9a9a4;--anatomy-faint:#cfcfca;--th-slit:#4a4a48}
+.iso[data-theme="light"] .th-sand{--anatomy-shade-0:#d6c49c;--anatomy-shade-1:#dccba6;--anatomy-shade-2:#e2d2af;--anatomy-shade-3:#e7d8b8;--anatomy-top:#ede1c6;--anatomy-hi:#55472b;--anatomy-mid:#b6a275;--anatomy-lo:#c8b68d;--anatomy-faint:#dfd1b1;--anatomy-dot:#8f7a4e}
+.iso[data-theme="light"] .th-door{--anatomy-shade-0:#a99f8e;--anatomy-shade-1:#b5ab9a;--anatomy-shade-2:#c0b7a6;--anatomy-shade-3:#cbc2b2;--anatomy-top:#d6cebf;--anatomy-hi:#3a352c;--anatomy-mid:#7a7161;--anatomy-lo:#8e8574;--anatomy-faint:#b9b09f;--anatomy-dot:#3a352c}
+.iso[data-theme="light"] .th-iron{--anatomy-shade-0:#5f5d59;--anatomy-shade-1:#6a6864;--anatomy-shade-2:#75736f;--anatomy-shade-3:#807e7a;--anatomy-top:#8c8a86;--anatomy-hi:#1e1d1b;--anatomy-mid:#3f3e3b;--anatomy-lo:#4d4c49;--anatomy-faint:#6e6c68;--anatomy-dot:#d8d6d0}
+.iso[data-theme="light"] .th-soldier{--anatomy-shade-0:#7c8494;--anatomy-shade-1:#8890a0;--anatomy-shade-2:#949cab;--anatomy-shade-3:#a1a8b6;--anatomy-top:#b0b6c2;--anatomy-face:#c2c7d1;--anatomy-lit-top:#d3d7de;--anatomy-lit-shade:#a7aebb;--anatomy-hi:#14171d;--anatomy-mid:#4b5160;--anatomy-lo:#5d6372}
+.iso[data-theme="light"] .th-cavity{fill:#2b2722}
+.iso[data-theme="light"] .th-cavity-rib{stroke:#5a5248}
+
+/* Card: calm sky tones in the background only, crossfading to night. */
+.iso-plate{background:linear-gradient(180deg,#0f151b 0%,#141518 58%,#16140f 100%);overflow:hidden}
+.iso-plate::before{content:"";position:absolute;inset:0;background:linear-gradient(180deg,#05070d 0%,#080a10 60%,#0a0b0d 100%);opacity:var(--th-night,0);pointer-events:none}
+.iso[data-theme="light"] .iso-plate{background:linear-gradient(180deg,#dbe6ee 0%,#eef0ee 55%,#f4efe4 100%)}
+.iso[data-theme="light"] .iso-plate::before{background:linear-gradient(180deg,#9aa8c0 0%,#b9c0cc 55%,#cfcbc2 100%)}
+.th-moon{position:absolute;top:58px;right:64px;width:22px;height:22px;border-radius:50%;box-shadow:inset -6px 3px 0 0 #e9e4d4;opacity:calc(var(--th-night,0)*.9);pointer-events:none}
+.iso[data-theme="light"] .th-moon{box-shadow:inset -6px 3px 0 0 #fbf8ee}
+.iso-plate>*{position:relative}
+.iso-plate .iso-plate-corners{position:absolute}
+.iso-plate>.th-moon{position:absolute}
+.th-stage{outline:none;cursor:grab;touch-action:pan-y}
+.th-stage:active{cursor:grabbing}
+.iso-plate:has(.th-stage:focus-visible) [data-corner="hint"]{color:var(--anatomy-strong)}
+.th-layers{position:relative;overflow:hidden;width:100%}
+.th-scene{position:absolute;inset:0;filter:brightness(calc(1 - var(--th-night,0)*.46)) saturate(calc(1 - var(--th-night,0)*.3))}
+.th-layer{position:absolute;inset:0;width:100%;height:100%;overflow:visible}
+.th-move{will-change:transform}
+.th-top{z-index:70}
+.th-sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+.th-controls{display:flex;gap:8px;margin:12px 0 0}
+.th-btn{font:inherit;font-family:var(--anatomy-mono);font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--anatomy-text);background:transparent;border:1px solid var(--anatomy-mid);border-radius:0;padding:6px 10px;cursor:pointer}
+.th-btn[aria-pressed="true"]{color:var(--anatomy-strong);border-color:var(--anatomy-hi)}
+.th-btn:focus-visible{outline:1px solid var(--anatomy-hi);outline-offset:2px}

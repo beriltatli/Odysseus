@@ -1,0 +1,1 @@
+[["wait",500],["key","End"],["eval","window.__frames=0"],["wait",2000],["eval","window.__frames/2 + ' fps'"],["eval","(()=>{const t0=performance.now();for(let i=0;i<5;i++){document.querySelector('[data-part=lead]')};return 0})()"]]

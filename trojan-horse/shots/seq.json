@@ -1,0 +1,8 @@
+[["wait",600],["key","ArrowLeft"],["wait",300],
+ ["key","ArrowRight"],["key","ArrowRight"],["key","ArrowRight"],["key","ArrowRight"],["key","ArrowRight"],["key","ArrowRight"],["key","ArrowRight"],["key","ArrowRight"],["key","ArrowRight"],["key","ArrowRight"],["key","ArrowRight"],["wait",3500],["shot","shots/s1-mid.png"],
+ ["key","ArrowRight"],["key","ArrowRight"],["key","ArrowRight"],["wait",1400],["shot","shots/s2-pass.png"],
+ ["key","End"],["wait",3000],["shot","shots/s3-closing.png"],["wait",2600],["shot","shots/s3-inside.png"],
+ ["key","n"],["wait",2000],["shot","shots/s4-hatch.png"],
+ ["key","ArrowUp"],["wait",3500],["shot","shots/s5-climb.png"],
+ ["key","ArrowUp"],["wait",3500],["shot","shots/s6-run.png"],
+ ["key","ArrowUp"],["wait",6000],["shot","shots/s7-gate.png"]]

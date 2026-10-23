@@ -119,10 +119,6 @@ Odysseus/
 └── shots/                     test captures and close-ups from development
 ```
 
-## Credits
-
-Built with [Claude Code](https://claude.com/claude-code) and the [anatomy](https://github.com/wheresryan22/anatomy) skill. The story is Homer's, and Virgil's. The horse belongs to Çanakkale.
-
 <div align="center">
 <sub>Çanakkale'den sevgilerle 🐴</sub>
 </div>
